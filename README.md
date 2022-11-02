@@ -8,7 +8,6 @@ I am fresh graduate that holds a diploma in Software development. I enjoy comput
 
 * 🌍  I'm based in Orlando West x2, Soweto
 * ✉️  You can contact me at [vusimuzidlodlo@gmail.com](mailto:vusimuzidlodlo@gmail.com)
-* 🧠  I'm learning vue.js
 * 🤝  I'm open to collaborating on on any kind of project, as it will expose me to new technologies
 * ⚡  I love Anime and Games
 
