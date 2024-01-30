@@ -4,7 +4,7 @@ Hi 👋 My name is Vusimuzi Dlodlo
 Software Development
 --------------------
 
-I am fresh graduate that holds a diploma in Software development. I enjoy computers and learning new things, currently I'm fond of building Android apps.
+I am Software developer graduate that holds a diploma in Software development. I enjoy computers and learning new things, currently I'm fond of building Android apps.
 
 * 🌍  I'm based in Orlando West x2, Soweto
 * ✉️  You can contact me at [vusimuzidlodlo@gmail.com](mailto:vusimuzidlodlo@gmail.com)
